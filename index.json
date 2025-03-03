@@ -13,6 +13,7 @@
         {
             "name": "Another Example App",
             "bundleIdentifier": "com.example.anotherapp",
+            "marketplaceID": "7287738585",
             "developerName": "Example Developer",
             "subtitle": "Another awesome app.",
             "localizedDescription": "This is another awesome app only available on AltStore.",
