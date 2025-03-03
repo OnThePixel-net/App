@@ -7,18 +7,18 @@
     "website": "https://OnThePixel.net",
     "tintColor": "#008000",
     "featuredApps": [
-        "com.example.anotherapp"
+        "net.onthepixel.onthepixel"
     ],
     "apps": [
         {
-            "name": "Another Example App",
-            "bundleIdentifier": "com.example.anotherapp",
+            "name": "OnThePixel",
+            "bundleIdentifier": "net.onthepixel.onthepixel",
             "marketplaceID": "7287738585",
-            "developerName": "Example Developer",
-            "subtitle": "Another awesome app.",
-            "localizedDescription": "This is another awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
-            "tintColor": "#3660A2",
+            "developerName": "TinyBrickBoy, jakobonly",
+            "subtitle": "Don't play alone.",
+            "localizedDescription": "Leaderbord, stats and more",
+            "iconURL": "https://OnThePixel.net/logo.png",
+            "tintColor": "#008000",
             "screenshots": {
                 "iphone": [
                     "https://example.com/anotherapp_portrait_1.png",
@@ -50,22 +50,6 @@
                     "localizedDescription": "Bug fixes and performance improvements.",
                     "size": 81514,
                     "minOSVersion": "13.0"
-                },
-                {
-                    "version": "1.1",
-                    "date": "2022-04-15T10:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.1.ipa",
-                    "localizedDescription": "New features!",
-                    "size": 81364,
-                    "minOSVersion": "13.0",
-                    "maxOSVersion": "16.3"
-                },
-                {
-                    "version": "0.1",
-                    "date": "2025-03-03T021:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.0.ipa",
-                    "localizedDescription": "Initial release.",
-                    "size": 79821
                 }
             ]
         }
