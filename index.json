@@ -16,7 +16,7 @@
             "marketplaceID": "7287738585",
             "developerName": "TinyBrickBoy, jakobonly",
             "subtitle": "Don't play alone.",
-            "localizedDescription": "Leaderbord, stats and more",
+            "localizedDescription": "Leaderboard, stats and more",
             "iconURL": "https://OnThePixel.net/logo.png",
             "tintColor": "#008000",
             "screenshots": {
@@ -45,6 +45,7 @@
             "versions": [
                 {
                     "version": "1.2",
+                    "buildVersion": "1002",
                     "date": "2022-06-21T09:00:00-08:00",
                     "downloadURL": "https://example.com/anotherapp_v1.2.ipa",
                     "localizedDescription": "Bug fixes and performance improvements.",
