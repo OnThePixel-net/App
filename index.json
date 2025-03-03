@@ -61,8 +61,8 @@
                     "maxOSVersion": "16.3"
                 },
                 {
-                    "version": "1.0",
-                    "date": "2022-02-02T07:00:00-08:00",
+                    "version": "0.1",
+                    "date": "2025-03-03T021:00:00-08:00",
                     "downloadURL": "https://example.com/anotherapp_v1.0.ipa",
                     "localizedDescription": "Initial release.",
                     "size": 79821
