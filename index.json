@@ -5,7 +5,7 @@
     "iconURL": "https://OnThePixel.net/logo.png",
     "headerURL": "https://OnThePixel.net/bg.png",
     "website": "https://OnThePixel.net",
-    "tintColor": "#4185A9",
+    "tintColor": "#008000",
     "featuredApps": [
         "com.example.anotherapp"
     ],
